@@ -223,6 +223,13 @@
             "api": "./js/live2vod.js",
             "ext": "./json/feimaolive.json"
         },
+        {    
+             "key":"电视频道",			
+             "name":"电视频道",	
+             "type":3,	
+             "api":"./js/zb.min.js",	
+             "ext":"./ext/点播频道.json"
+        },
         {
             "key": "4k-av",
             "name": "✨4k-av✨乐哥甄选✨",
