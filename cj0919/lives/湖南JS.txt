@@ -1,0 +1,15 @@
+湖南娱乐,http://A/ku9/js/hn.js?id=hnyl
+湖南电影,http://A/ku9/js/hn.js?id=hndy
+湖南都市,http://A/ku9/js/hn.js?id=hnds
+湖南电视剧,http://A/ku9/js/hn.js?id=hndsj
+湖南公共,http://A/ku9/js/hn.js?id=hngg
+湖南国际,http://A/ku9/js/hn.js?id=hngj
+金鹰纪实,http://A/ku9/js/hn.js?id=jyjs
+金鹰卡通,http://A/ku9/js/hn.js?id=jykt
+先锋乒羽,http://A/ku9/js/hn.js?id=xfpy
+快乐垂钓,http://A/ku9/js/hn.js?id=klcd
+茶频道,http://A/ku9/js/hn.js?id=cpd
+长沙新闻综合,http://A/ku9/js/hn.js?id=csxwzh
+长沙政法频道,http://A/ku9/js/hn.js?id=cszfpd
+长沙女性频道,http://A/ku9/js/hn.js?id=csnxpd
+快乐购,http://A/ku9/js/hn.js?id=klg

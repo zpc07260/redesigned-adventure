@@ -1,0 +1,153 @@
+
+tva-x1,https://ovhv47.twincdn.com/videos/43/43393/43393_720p.mp4?key_iptv.org.ua
+tva xxx1,http://nvid101.cdnii.com/2018/1/20181384-720p.mp4
+tva xxx2,http://nvid101.cdnii.com/2019/0/20190414-720p.mp4
+tva xxx3,http://nvid101.cdnii.com/2018/3/20183023-720p.mp4
+tva xxx4,http://nvid101.cdnii.com/2019/0/20190717-720p.mp4
+tva xxx5,http://nvid101.cdnii.com/2019/0/20190470-720p.mp4
+tva xxx6,http://nvid101.cdnii.com/2018/2/20182319-720p.mp4
+tva xxx7,http://nvid101.cdnii.com/2018/0/20180314-720p.mp4
+tva xxx8,http://nvid101.cdnii.com/2019/0/20190420-720p.mp4
+tva xxx9,http://nvid101.cdnii.com/2018/0/20180372-720p.mp4
+tva xxx10,http://nvid101.cdnii.com/2019/0/20190377-720p.mp4
+tva xxx11,http://nvid101.cdnii.com/2525/252500311-720p.mp4
+tva xxx12,http://nvid101.cdnii.com/2019/0/20190861-720p.mp4
+tva xxx13,http://nvid101.cdnii.com/2018/0/20180585-720p.mp4
+tva xxx14,http://nvid101.cdnii.com/2525/252500376-720p.mp4
+tva xxx15,http://nvid101.cdnii.com/2018/2/20182028-720p.mp4
+tva xxx16,http://nvid101.cdnii.com/2018/3/20183546-720p.mp4
+tva xxx17,http://nvid101.cdnii.com/2019/0/20190659-720p.mp4
+tva xxx18,http://nvid101.cdnii.com/2018/2/20182663-720p.mp4
+tva xxx19,http://nvid101.cdnii.com/2018/2/20182353-720p.mp4
+tva xxx20,http://nvid101.cdnii.com/2525/252500383-720p.mp4
+tva xxx21,http://nvid101.cdnii.com/2019/1/20191019-720p.mp4
+tva xxx22,http://nvid101.cdnii.com/2018/1/20181836-720p.mp4
+tva xxx23,http://nvid101.cdnii.com/2018/2/20182938-720p.mp4
+tva xxx24,http://nvid101.cdnii.com/2018/2/20182552-720p.mp4
+tva xxx25,http://nvid101.cdnii.com/2018/3/20183114-720p.mp4
+tva xxx26,http://nvid101.cdnii.com/2018/1/20181266-720p.mp4
+tva xxx27,http://nvid101.cdnii.com/2019/0/20190200-720p.mp4
+tva xxx28,http://nvid101.cdnii.com/2018/2/20182004-720p.mp4
+tva xxx29,http://nvid101.cdnii.com/2019/0/20190863-720p.mp4
+tva xxx30,http://nvid101.cdnii.com/2019/0/20190758-720p.mp4
+tva xxx31,http://nvid101.cdnii.com/2018/0/20180999-720p.mp4
+tva xxx32,http://nvid101.cdnii.com/2019/0/20190647-720p.mp4
+tva xxx33,http://nvid101.cdnii.com/2019/0/20190879-720p.mp4
+tva xxx34,http://nvid101.cdnii.com/2018/2/20182845-720p.mp4
+tva xxx35,http://nvid101.cdnii.com/2018/0/20180735-720p.mp4
+tva xxx36,http://nvid101.cdnii.com/2018/0/20180599-720p.mp4
+tva xxx37,http://nvid101.cdnii.com/2018/3/20183722-720p.mp4
+tva xxx38,http://nvid101.cdnii.com/2018/2/20182393-720p.mp4
+tva xxx39,http://nvid101.cdnii.com/2525/252500205-720p.mp4
+tva xxx40,http://nvid101.cdnii.com/2018/2/20182541-720p.mp4
+tva xxx42,http://nvid101.cdnii.com/2018/2/20182292-720p.mp4
+tva xxx43,http://nvid101.cdnii.com/2018/3/20183718-720p.mp4
+tva xxx44,http://nvid101.cdnii.com/2019/1/20191038-720p.mp4
+tva xxx45,http://nvid101.cdnii.com/2019/0/20190372-720p.mp4
+tva xxx46,http://nvid101.cdnii.com/2525/252500323-720p.mp4
+tva xxx47,http://nvid101.cdnii.com/2018/1/20181607-720p.mp4
+tva xxx48,http://nvid101.cdnii.com/2019/0/20190765-720p.mp4
+tva xxx49,http://nvid101.cdnii.com/2019/0/20190662-720p.mp4
+tva xxx50,http://nvid101.cdnii.com/2019/0/20190655-720p.mp4
+tva xxx51,http://nvid101.cdnii.com/2018/0/20180841-720p.mp4
+tva xxx52,http://nvid101.cdnii.com/2019/1/20191002-720p.mp4
+tva xxx53,http://nvid101.cdnii.com/2018/2/20182083-720p.mp4
+tva xxx54,http://nvid101.cdnii.com/2018/2/20182115-720p.mp4
+tva xxx55,http://nvid101.cdnii.com/2018/3/20183177-720p.mp4
+tva xxx56,http://nvid101.cdnii.com/2018/3/20183569-720p.mp4
+tva xxx57,http://nvid101.cdnii.com/2018/3/20183397-720p.mp4
+tva xxx58,http://nvid101.cdnii.com/2019/0/20190875-720p.mp4
+tva xxx59,http://nvid101.cdnii.com/2019/0/20190696-720p.mp4
+tva xxx60,http://nvid101.cdnii.com/2018/0/20180855-720p.mp4
+tva xxx61,http://nvid101.cdnii.com/2018/3/20183350-720p.mp4
+tva xxx62,http://nvid101.cdnii.com/2019/0/20190675-720p.mp4
+tva xxx63,http://nvid101.cdnii.com/2018/3/20183657-720p.mp4
+tva xxx64,http://nvid101.cdnii.com/2019/0/20190931-720p.mp4
+tva xxx65,http://nvid101.cdnii.com/2525/252500182-720p.mp4
+tva xxx66,http://nvid101.cdnii.com/2019/0/20190566-720p.mp4
+tva xxx67,http://nvid101.cdnii.com/2019/0/20190304-720p.mp4
+tva xxx68,http://nvid101.cdnii.com/2019/0/20190270-720p.mp4
+tva xxx69,http://nvid101.cdnii.com/2019/0/20190230-720p.mp4
+tva xxx70,http://nvid101.cdnii.com/2019/1/20191025-720p.mp4
+tva xxx71,http://nvid101.cdnii.com/2018/2/20182534-720p.mp4
+tva xxx72,http://nvid101.cdnii.com/2019/0/20190703-720p.mp4
+tva xxx73,http://nvid101.cdnii.com/2018/2/20182758-720p.mp4
+tva xxx74,http://nvid101.cdnii.com/2018/2/20182348-720p.mp4
+tva xxx75,http://nvid101.cdnii.com/2019/0/20190408-720p.mp4
+tva xxx76,http://nvid101.cdnii.com/2019/0/20190838-720p.mp4
+tva xxx77,http://nvid101.cdnii.com/2018/2/20182969-720p.mp4
+tva xxx78,http://nvid101.cdnii.com/2019/0/20190800-720p.mp4
+tva xxx79,http://nvid101.cdnii.com/2018/2/20182222-720p.mp4
+tva xxx80,http://nvid101.cdnii.com/2019/0/20190367-720p.mp4
+tva xxx81,http://nvid101.cdnii.com/2019/0/20190052-720p.mp4
+tva xxx82,http://nvid101.cdnii.com/2018/2/20182374-720p.mp4
+tva xxx83,http://nvid101.cdnii.com/2019/1/20191007-720p.mp4
+tva xxx84,http://nvid101.cdnii.com/2018/3/20183099-720p.mp4
+tva xxx85,http://nvid101.cdnii.com/2019/0/20190546-720p.mp4
+tva xxx86,http://nvid101.cdnii.com/2019/0/20190618-720p.mp4
+tva xxx87,http://nvid101.cdnii.com/2019/1/20191013-720p.mp4
+tva xxx88,http://nvid101.cdnii.com/2018/0/20180329-720p.mp4
+tva xxx89,http://nvid101.cdnii.com/2018/2/20182277-720p.mp4
+tva xxx90,http://nvid101.cdnii.com/2525/252500379-720p.mp4
+tva xxx91,http://nvid101.cdnii.com/2018/0/20180280-720p.mp4
+tva xxx92,http://nvid101.cdnii.com/2019/0/20190246-720p.mp4
+tva xxx93,http://nvid101.cdnii.com/2018/1/20181735-720p.mp4
+tva xxx94,http://nvid101.cdnii.com/2018/1/20181631-720p.mp4
+tva xxx95,http://nvid101.cdnii.com/2018/0/20180555-720p.mp4
+tva xxx96,http://nvid101.cdnii.com/2019/0/20190764-720p.mp4
+tva xxx97,http://nvid101.cdnii.com/2019/0/20190365-720p.mp4
+tva xxx98,http://nvid101.cdnii.com/2018/3/20183666-720p.mp4
+tva xxx99,http://nvid101.cdnii.com/2019/0/20190597-720p.mp4
+tva xxx100,http://nvid101.cdnii.com/2019/0/20190291-720p.mp4
+tva xxx101,http://nvid101.cdnii.com/2018/2/20182422-720p.mp4
+tva-x230,http://nvid101.cdnii.com/2019/0/20190416-720p.mp4
+tva-x231,http://nvid101.cdnii.com/2019/0/20190418-720p.mp4
+tva-x232,http://nvid101.cdnii.com/2019/0/20190420-720p.mp4
+tva-x233,http://nvid101.cdnii.com/2019/0/20190421-720p.mp4
+tva-x234,http://nvid101.cdnii.com/2019/0/20190422-720p.mp4
+tva-x235,http://nvid101.cdnii.com/2019/0/20190423-720p.mp4
+tva-x236,http://nvid101.cdnii.com/2019/0/20190424-720p.mp4
+tva-x237,http://nvid101.cdnii.com/2019/0/20190425-720p.mp4
+tva-x238,http://nvid101.cdnii.com/2019/0/20190426-720p.mp4
+tva-x239,http://nvid101.cdnii.com/2019/0/20190427-720p.mp4
+tva-x240,http://nvid101.cdnii.com/2018/2/20182618-720p.mp4
+tva-x241,http://nvid101.cdnii.com/2018/2/20182619-720p.mp4
+tva-x242,http://nvid101.cdnii.com/2018/2/20182620-720p.mp4
+tva-x243,http://nvid101.cdnii.com/2018/2/20182621-720p.mp4
+tva-x244,http://nvid101.cdnii.com/2018/2/20182622-720p.mp4
+tva-x245,http://nvid101.cdnii.com/2018/2/20182623-720p.mp4
+tva-x246,http://nvid101.cdnii.com/2018/2/20182624-720p.mp4
+tva-x247,http://nvid101.cdnii.com/2018/2/20182625-720p.mp4
+tva-x248,http://nvid101.cdnii.com/2018/2/20182626-720p.mp4
+tva-x249,http://nvid101.cdnii.com/2018/2/20182627-720p.mp4
+tva-x250,http://nvid101.cdnii.com/2018/2/20182628-720p.mp4
+tva-x251,http://nvid101.cdnii.com/2018/2/20182629-720p.mp4
+tva-x252,http://nvid101.cdnii.com/2018/2/20182630-720p.mp4
+tva-x253,http://nvid101.cdnii.com/2018/2/20182631-720p.mp4
+tva-x254,http://nvid101.cdnii.com/2018/2/20182632-720p.mp4
+tva-x255,http://nvid101.cdnii.com/2018/2/20182633-720p.mp4
+tva-x256,http://nvid101.cdnii.com/2018/2/20182634-720p.mp4
+tva-x257,http://nvid101.cdnii.com/2018/2/20182635-720p.mp4
+tva-x258,http://nvid101.cdnii.com/2018/2/20182636-720p.mp4
+tva-x259,http://nvid101.cdnii.com/2018/2/20182637-720p.mp4
+tva-x260,http://nvid101.cdnii.com/2018/2/20182638-720p.mp4
+tva-x261,http://nvid101.cdnii.com/2018/2/20182639-720p.mp4
+tva-x262,https://v6794.cdn-d5.com/a951fbe04aab1872ccbf3969af42530bb5b9175d/2020/1/20201721-720p.mp4
+tva-x263,http://nvid101.cdnii.com/2021/0/20210960-720p.mp4
+tva-x264,http://nvid101.cdnii.com/2021/0/20210961-720p.mp4
+tva-x265,http://nvid101.cdnii.com/2021/0/20210962-720p.mp4
+tva-x266,http://nvid101.cdnii.com/2021/0/20210963-720p.mp4
+tva-x267,http://nvid101.cdnii.com/2021/0/20210964-720p.mp4
+tva-x268,http://nvid101.cdnii.com/2021/0/20210965-720p.mp4
+tva-x269,http://nvid101.cdnii.com/2021/0/20210966-720p.mp4
+tva-x270,http://nvid101.cdnii.com/2021/0/20210967-720p.mp4
+tva-x271,http://nvid101.cdnii.com/2021/0/20210968-720p.mp4
+tva-x272,http://nvid101.cdnii.com/2021/0/20210969-720p.mp4
+tva-x273,http://nvid101.cdnii.com/2021/0/20210970-720p.mp4
+tva-x274,http://nvid101.cdnii.com/2021/0/20210971-720p.mp4
+tva-x275,http://nvid101.cdnii.com/2021/0/20210972-720p.mp4
+tva-x276,http://nvid101.cdnii.com/2021/0/20210973-720p.mp4
+tva-x277,http://nvid101.cdnii.com/2021/0/20210974-720p.mp4
+tva-x278,http://nvid101.cdnii.com/2021/0/20210975-720p.mp4
+tva-x279,http://nvid101.cdnii.com/2021/0/20210976-720p.mp4
+tva-x280,http://nvid101.cdnii.com/2021/0/20210977-720p.mp4

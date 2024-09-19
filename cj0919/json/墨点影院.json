@@ -1,0 +1,116 @@
+{
+ 
+"作者": "乐哥/240909/",
+  
+"站名": "墨点剧场",
+    
+"请求头": "User-Agent$MOBILE_UA",
+
+"编码": "UTF-8",
+
+"图片代理": "0",
+
+"直接播放": "0",
+
+"播放请求头": "",
+
+"嗅探词": "",
+
+"过滤词": "",
+
+"主页url": "https://www.modiandy.com/",
+
+"首页": "120",
+
+"起始页": "1",
+
+  "分类url": "https://www.modiandy.com/{cateId}/{class}/page/{catePg}",
+
+// "分类url": "/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html;;mrc",
+
+// "分类二次截取": "mod_category_item&&</ul>",
+
+// "分类数组": "<a&&/a>",
+
+// "分类标题": ">&&<",
+
+// "分类ID": "categories/&&/",
+
+"分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#纪录片$jilupian#微电影$weidianying#剧情片$dianying/juqing#喜剧片$dianying/xiju#爱情片$dianying/aiqing#动作片$dianying/dongzuo#恐怖片$dianying/kongbu#科幻片$dianying/kehuan#战争片$dianying/zhanzheng#悬疑片$dianying/xuanyi#犯罪片$dianying/fanzui#冒险片$dianying/maoxian#奇幻片$dianying/qihuan#西部片$dianying/xibu#历史片$dianying/lishi#同性片$dianying/tongxing#动画片$dianying/donghua#短剧$dianshiju/duanju#大陆剧$dianshiju/dalu#港台剧$dianshiju/gangtai#日韩剧$dianshiju/rihan#美剧$dianshiju/meiju#泰剧$dianshiju/taiju#海外剧$dianshiju/haiwai#大陆综艺$zongyi/dalu#港台综艺$zongyi/gangtai#日韩综艺$zongyi/rihan#欧美综艺$zongyi/oumei#其他综艺$zongyi/qita#国漫$dongman/guoman#日漫$dongman/riman#美漫$dongman/meiman#其他动漫$dongman/qita#BBC$jilupian/bbc#美食$jilupian/meishi#动物$jilupian/dongwu#历史$jilupian/lishi#军事$jilupian/junshi#人文自然$jilupian/renwenziran#华夏文明$jilupian/huaxia#体育竞赛$jilupian/jingsai#网络大电影$weidianying/wangda#短片$weidianying/duanpian#音乐MV$weidianying/yinyue#预告花絮$weidianying/yugaohuaxu#豆瓣电影$dianying-db#豆瓣电视剧$dianshiju-db#豆瓣综艺$zongyi-db#豆瓣动漫$dongman-db#豆瓣纪录片$jilupian-db#豆瓣微电影$duanpian-db",
+
+"二次截取": "",
+
+ "数组": "item\"&&</li>",
+
+"标题": "title=\"&&\"",
+
+ "图片": " _src=\"&&\"",
+
+"副标题": "✨+state\">&&</span>",
+
+ "链接": "href=\"&&\"",
+
+"导演": "导演：&&</p>",
+
+"主演": "主演：&&</p>",
+
+"简介": "✨指间的黑客为您介绍剧情✨+<div class=\"content\">&&</p>",
+
+//"多线二次截取": "<nav id=\"playnav\">&&</ul>",
+
+"多线数组": "class=\"item-name&&_blank",
+
+"多线链接":"href=\"&&\"",
+
+"线路二次截取": "",
+
+"线路数组": "tab-nav\"&&</li>",
+
+ "线路标题": "✨+title=\"&&\"+name-sort\">&&</em>",
+
+"播放二次截取": "",
+
+"播放数组": "episodes-list\">&&</ul>",
+
+"倒序": "0",
+
+"播放列表": "<a&&/a>",
+
+"播放标题": "✨+>&&<",
+
+"播放链接":"href=\"&&\"",
+
+"解析": "",
+
+"跳转播放链接": "",
+
+"跳转解析": "",
+
+"搜索请求头": "User-Agent$MOBILE_UA",
+
+"搜索url": "https://www.modiandy.com/search/{wd}/page/{pg}",
+
+"搜索后缀": "",
+
+"搜索二次截取": "",
+
+"搜索数组": "item\"&&</li>",
+
+"搜索标题": "title=\"&&\"",
+
+"搜索图片": " _src=\"&&\"",
+
+"搜索副标题": "✨+state\">&&</span>",
+
+"搜索链接": "href=\"&&\"",
+
+"筛选": "1",
+
+"类型": "",
+   
+    "字母": "A&B&C&D&E&F&G&H&I&J&K&L&M&N&O&P&Q&R&S&T&U&V&W&X&Y&Z&0-9",
+    "字母值": "*",
+    "排序": "时间&人气&评分",
+    "排序值": "time&hits&score"
+
+}
